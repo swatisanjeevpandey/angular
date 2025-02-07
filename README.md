@@ -28,11 +28,6 @@ Health Challenge Tracker is a single-page application (SPA) developed using Angu
 
 Follow these steps to run the application locally.
 
-<h3> Prerequisites</h3>
-
-- [Node.js](https://nodejs.org/en/)
-- [Angular CLI](https://angular.io/cli)
-
 <h3> Installation</h3>
 
 1. <b>Clone the Repository:</b>
